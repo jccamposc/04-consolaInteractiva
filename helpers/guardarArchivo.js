@@ -1,6 +1,5 @@
 const fs = require('fs');
 
-
 const archivo = './db/data.json';
 
 const guardarDB = ( data ) => {
